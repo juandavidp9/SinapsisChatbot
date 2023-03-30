@@ -1,7 +1,8 @@
 
 ## Sinapsis Chatbot 
 
-Custom AI Chatbot built in python using OpenAI API trained in Simetrik documentation
+Custom AI Chatbot built in python using OpenAI API. Model 'text-davinci-003', trained with Simetrik documentation 
+https://simetrik.notion.site
 
 ## Installation
 
