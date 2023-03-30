@@ -1,5 +1,5 @@
 
-## Sinapsis Chatbot HackIAton  Simetrik 
+## Sinapsis Chatbot 
 
 Custom AI Chatbot built in python using OpenAI API trained in Simetrik documentation
 
